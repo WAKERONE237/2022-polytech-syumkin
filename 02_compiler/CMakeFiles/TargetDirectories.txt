@@ -1,0 +1,3 @@
+Z:/1_course/4931101_20001/2022-polytech-syumkin/02_compiler/CMakeFiles/hello.dir
+Z:/1_course/4931101_20001/2022-polytech-syumkin/02_compiler/CMakeFiles/ALL_BUILD.dir
+Z:/1_course/4931101_20001/2022-polytech-syumkin/02_compiler/CMakeFiles/ZERO_CHECK.dir

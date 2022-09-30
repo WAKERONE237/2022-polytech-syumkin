@@ -1,0 +1,6 @@
+﻿  Building Custom Rule Z:/1_course/4931101_20001/2022-polytech-syumkin/02_compiler/CMakeLists.txt
+  func.cpp
+  hello_world.cpp
+  Создание кода...
+  hello.vcxproj -> Z:\1_course\4931101_20001\2022-polytech-syumkin\02_compiler\Debug\hello.exe
+  hello.vcxproj -> Z:/1_course/4931101_20001/2022-polytech-syumkin/02_compiler/Debug/hello.pdb (Full PDB)

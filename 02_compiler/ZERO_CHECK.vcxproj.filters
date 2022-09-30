@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="Z:\1_course\4931101_20001\2022-polytech-syumkin\02_compiler\CMakeFiles\c500227e7d65f9af68c897e7857823f1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{372AB994-A108-30FF-BA3E-C33491533349}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
